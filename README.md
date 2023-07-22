@@ -1,11 +1,11 @@
 ### Interlinked.
 
-[Linkedin](https://www.linkedin.com/in/muhammad-rieza-fachrezi/)\
+[Linkedin](https://www.linkedin.com/in/muhammad-rieza-fachrezi/)
 
 <p align="left">
 <a href="https://github.com/riezaf51">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riezaf51&show_icons=true&theme=tokyonight&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riezaf51&layout=compact&theme=tokyonight&hide=css,scss,blade"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riezaf51&layout=compact&theme=tokyonight&hide=css,scss,blade"/> -->
   
 </a>
 </p>
